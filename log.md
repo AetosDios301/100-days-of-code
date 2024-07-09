@@ -9,6 +9,6 @@
 - Progressed further in the Level 2 C++ Course on Codechef.
 
 2024-07-09 -> Day 3
-- 45% of the Level - 2 C++ course on Codechef.
+- 45% of the Level - 2 C++ course on Codechef is finished so far.
 
 

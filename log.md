@@ -6,5 +6,4 @@
 2024-07-08 -> Day 2
 - Progressed further in the Level 2 C++ Course on Codechef
 
-2024-07-09
-- 
+

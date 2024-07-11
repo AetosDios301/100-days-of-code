@@ -14,4 +14,7 @@
 2024-07-10 -> Day 4
 - 48% of the Level - 2 C++ course on Codechef is done. Did some 30+ problems today.
 
+2024-07-11 -> Day 5
+- Did more problems in the Level 2 C++ course on Codechef but was down with health issues so couldn't really do much, will get back to it with double the intensity tomorrow, that's a promise.
+
 

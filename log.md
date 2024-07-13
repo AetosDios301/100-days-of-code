@@ -17,4 +17,7 @@
 2024-07-11 -> Day 5
 - Did more problems in the Level 2 C++ course on Codechef but was down with health issues so couldn't really do much, will get back to it with double the intensity tomorrow, that's a promise.
 
+2024-07-12 -> Day 6
+- Pushed to 51% of the same course as yesterday.
+
 

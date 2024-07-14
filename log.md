@@ -23,3 +23,5 @@
 2024-07-13 -> Day 7
 - Finsihed the first module of the C++ beginner DSA course. Solved 88 problems, dipped my toes into 700 rated problems for the first time.
 
+2024-07-14 -> Day 8
+- Was doing the foundation course of The Odin Project today and learned the CLI portion.
